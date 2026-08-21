@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/476/problem/A" target="_blank" rel="noopener noreferrer">476A — Dreamoon and Stairs</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1000 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 476A](https://codeforces.com/contest/476/problem/A) |
+
+## Topics
+`implementation` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Dreamoon and Stairs</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Dreamoon wants to climb up a stair of <span class="tex-span"><i>n</i></span> steps. He can climb <span class="tex-span">1</span> or <span class="tex-span">2</span> steps at each move. Dreamoon wants the number of moves to be a multiple of an integer <span class="tex-span"><i>m</i></span>. </p><p>What is the minimal number of moves making him climb to the top of the stairs that satisfies his condition?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The single line contains two space separated integers <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span> (<span class="tex-span">0 < <i>n</i> ≤ 10000, 1 < <i>m</i> ≤ 10</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single integer — the minimal number of moves being a multiple of <span class="tex-span"><i>m</i></span>. If there is no way he can climb satisfying condition print <span class="tex-span"> - 1</span> instead.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00183671731058471" id="id0022828936282873613" class="input-output-copier">Copy</div></div><pre id="id00183671731058471">10 2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0038427919101474417" id="id0011521828168275106" class="input-output-copier">Copy</div></div><pre id="id0038427919101474417">6<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id002506148981342389" id="id0013471176426137565" class="input-output-copier">Copy</div></div><pre id="id002506148981342389">3 5<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004907852954064953" id="id0015768086052685748" class="input-output-copier">Copy</div></div><pre id="id004907852954064953">-1<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>For the first sample, Dreamoon could climb in 6 moves with following sequence of steps: {2, 2, 2, 2, 1, 1}.</p><p>For the second sample, there are only three valid sequence of steps {2, 1}, {1, 2}, {1, 1, 1} with 2, 2, and 3 steps respectively. All these numbers are not multiples of 5.</p></div>
