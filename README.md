@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 92 | 17 |
+| 93 | 17 |
 
 ---
 
@@ -24,9 +24,9 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (13)
 - [implementation](#implementation) (61)
-- [math](#math) (31)
+- [math](#math) (32)
 - [number theory](#number-theory) (8)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (18)
 - [two pointers](#two-pointers) (2)
 
@@ -227,6 +227,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### number theory
 
@@ -251,6 +252,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
 
