@@ -6,26 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 88 | 16 |
+| 92 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (10)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
+- [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (60)
-- [math](#math) (29)
-- [number theory](#number-theory) (6)
-- [sortings](#sortings) (5)
+- [greedy](#greedy) (13)
+- [implementation](#implementation) (61)
+- [math](#math) (31)
+- [number theory](#number-theory) (8)
+- [sortings](#sortings) (6)
 - [strings](#strings) (18)
 - [two pointers](#two-pointers) (2)
 
@@ -42,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 
 ### bitmasks
@@ -72,6 +74,8 @@
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 688B | [Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/688/B%20-%20Lovely%20Palindromes/solution.java) |
+| 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.java) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 
 ### dfs and similar
 
@@ -92,6 +96,12 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.java) |
+
 ### graphs
 
 | # | Problem | Difficulty | Solution |
@@ -109,9 +119,12 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
+| 1985C | [Good Prefixes](https://codeforces.com/contest/1985/problem/C) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1985/C%20-%20Good%20Prefixes/solution.java) |
 
 ### implementation
 
@@ -127,6 +140,7 @@
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.java) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/136/A%20-%20Presents/solution.java) |
+| 139A | [Petr and Book](https://codeforces.com/contest/139/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/139/A%20-%20Petr%20and%20Book/solution.java) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
@@ -202,11 +216,13 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
+| 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.java) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1141/A%20-%20Game%2023/solution.java) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
@@ -221,6 +237,8 @@
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.java) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.java) |
+| 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.java) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### sortings
@@ -231,6 +249,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
+| 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/dprincepiriyan/CodeForces/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 
 ### strings
